@@ -3,5 +3,6 @@ div {
     background: red;
     font-size: 32px;
     font-weight: bold;
+    font-family: "Tahoma", sans-serif;
     text-align: center
 }
